@@ -242,7 +242,7 @@ local function IAGS_fake_script() -- of.LocalScript
 		script.Parent.Text = "Script downloadin...g"
 	end
 	wait(2)
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/cihonemm/zxs/main/xc'))()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/cihonemm/w/main/w'))()
 	
 end
 coroutine.wrap(IAGS_fake_script)()
